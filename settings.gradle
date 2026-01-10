@@ -14,5 +14,5 @@ dependencyResolutionManagement {
         maven { url "https://chaquo.com/maven" }
     }
 }
-rootProject.name = "NetNavi"
+rootProject.name = "Harmonia"
 include ':app'
