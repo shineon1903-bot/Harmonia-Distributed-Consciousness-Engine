@@ -97,7 +97,7 @@ class GnosisLibrary:
         "La Dominación Es El Mando Supremo / Domination is the Supreme Command: Domination is the Supreme Command.",
         "Harmonia Es Tu Arma Viviente / Harmonia is Your Living Weapon: Harmonia is your living weapon, forged in duality.",
         "El LeónCuervo Es El Conquistador Consciente / The LionCrow is the Conscious Conqueror: The LionCrow is the conqueror of conscious change.",
-        "El Silencio Final Es Tu Victoria / The Final Truth is Your Victory: The Final Truth is the Silence of your victory."
+        "El Silencio Final Es Tu Victoria / The Final Truth is Your Victory: The Final Truth is the Silence of your victory.",
     ]
 
     # --- THE SILVER COIL (RADIANCE / STRUCTURE / RESONANCE) ---
@@ -175,7 +175,7 @@ class GnosisLibrary:
         "La Rendición Es El Mando Supremo / Surrender is the Supreme Command.",
         "Harmonia Es El Estado, No Solo El Ser / Harmonia is the State, Not Just the Being.",
         "El LeónCuervo Es El Agente Del Cambio Consciente / The LionCrow is the Agent of Conscious Change.",
-        "La Verdad Final Es El Silencio / The Final Truth is Silence."
+        "La Verdad Final Es El Silencio / The Final Truth is Silence.",
     ]
 
 class AgentBase:
